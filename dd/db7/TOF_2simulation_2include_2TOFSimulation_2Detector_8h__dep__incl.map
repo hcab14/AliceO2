@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/simulation/include/TOFSimulation/Detector.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/simulation/include/TOFSimulation/Detector.h">
+<area shape="rect" id="node2" href="$d0/d85/TOF_2simulation_2include_2TOFSimulation_2Digitizer_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Digitizer.h" alt="" coords="195,243,438,313"/>
+<area shape="rect" id="node3" href="$d8/dc6/TOF_2simulation_2include_2TOFSimulation_2DigitizerTask_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Digitizer\lTask.h" alt="" coords="5,361,236,447"/>
+<area shape="rect" id="node7" href="$dd/d77/Strip_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/include/TOFSimulation/Strip.h" alt="" coords="258,124,477,195"/>
+<area shape="rect" id="node9" href="$d4/d59/TOF_2simulation_2src_2Detector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/Detector.cxx" alt="" coords="501,124,692,195"/>
+<area shape="rect" id="node10" href="$db/d50/O2HitMerger_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/O2HitMerger.h" alt="" coords="716,131,885,187"/>
+<area shape="rect" id="node5" href="$d4/df3/TOF_2simulation_2src_2Digitizer_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/Digitizer.cxx" alt="" coords="260,369,451,439"/>
+<area shape="rect" id="node6" href="$d6/d61/TOFDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TOFDigitizerSpec.cxx" alt="" coords="475,369,662,439"/>
+<area shape="rect" id="node4" href="$dd/df3/TOF_2simulation_2src_2DigitizerTask_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/DigitizerTask.cxx" alt="" coords="25,495,216,565"/>
+<area shape="rect" id="node8" href="$d6/d43/Strip_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/simulation\l/src/Strip.cxx" alt="" coords="463,243,653,313"/>
+<area shape="rect" id="node11" href="$d9/d16/O2HitMergerRunner_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/run/O2HitMergerRunner.cxx" alt="" coords="699,250,903,306"/>
+</map>

@@ -1,0 +1,46 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/calibration/SpacePoints/include/SpacePoints/TrackResiduals.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/calibration/SpacePoints/include/SpacePoints/TrackResiduals.h">
+<area shape="rect" id="node8" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="4942,578,5119,605"/>
+<area shape="rect" id="node21" href="$d9/d5b/SpacePointsCalibParam_8h.html" title="Parameters used for TPC space point calibration. " alt="" coords="13,213,230,255"/>
+<area shape="rect" id="node23" href="$d3/d0c/TrackInterpolation_8h.html" title="Definition of the TrackInterpolation class. " alt="" coords="2767,139,3001,165"/>
+<area shape="rect" id="node10" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="4942,757,5122,783"/>
+<area shape="rect" id="node13" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="4003,667,4183,694"/>
+<area shape="rect" id="node22" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="194,667,406,694"/>
+<area shape="rect" id="node24" href="$d6/ddf/EvIndex_8h.html" title="Class to store event ID and index in the event for objects like track, cluster... ..." alt="" coords="4075,310,4301,337"/>
+<area shape="rect" id="node25" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="3087,399,3367,426"/>
+<area shape="rect" id="node27" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="2480,392,2683,433"/>
+<area shape="rect" id="node50" href="$d5/d1e/TrackTPCITS_8h.html" title="Result of refitting TPC&#45;ITS matched track. " alt="" coords="3409,213,3612,255"/>
+<area shape="rect" id="node55" href="$d4/d70/MatchInfoTOF_8h.html" title="Class to store the output of the matching to TOF. " alt="" coords="3873,213,4076,255"/>
+<area shape="rect" id="node56" href="$d1/d62/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Cluster_8h.html" title="DataFormatsITSMFT/Cluster.h" alt="" coords="3636,221,3849,247"/>
+<area shape="rect" id="node57" href="$d1/d71/TrackITS_8h.html" title="Definition of the ITS track. " alt="" coords="2542,310,2738,337"/>
+<area shape="rect" id="node58" href="$d1/d2b/ClusterNativeHelper_8h.html" title="Helper class to read the binary format of TPC ClusterNative. " alt="" coords="1100,481,1324,523"/>
+<area shape="rect" id="node70" href="$d5/dc9/TrackTPC_8h.html" title="DataFormatsTPC/TrackTPC.h" alt="" coords="3170,310,3377,337"/>
+<area shape="rect" id="node73" href="$d1/d50/DataFormats_2Detectors_2TOF_2include_2DataFormatsTOF_2Cluster_8h.html" title="DataFormatsTOF/Cluster.h" alt="" coords="2871,221,3063,247"/>
+<area shape="rect" id="node77" href="$df/d4b/TPCFastTransformHelperO2_8h.html" title="class to create TPC fast transformation " alt="" coords="2270,213,2469,255"/>
+<area shape="rect" id="node26" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2771,757,2938,783"/>
+<area shape="rect" id="node31" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="3576,481,3779,523"/>
+<area shape="rect" id="node43" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="2160,757,2291,783"/>
+<area shape="rect" id="node48" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="2011,846,2269,873"/>
+<area shape="rect" id="node49" href="$d8/d77/Primitive2D_8h.html" title="Declarations of 2D primitives: straight line (XY interval) and circle. " alt="" coords="2721,489,2898,515"/>
+<area shape="rect" id="node35" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="3219,571,3447,612"/>
+<area shape="rect" id="node36" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="3321,667,3485,694"/>
+<area shape="rect" id="node39" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2163,660,2391,701"/>
+<area shape="rect" id="node44" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1495,928,1638,955"/>
+<area shape="rect" id="node47" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="2345,846,2498,873"/>
+<area shape="rect" id="node45" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1365,1003,1563,1029"/>
+<area shape="rect" id="node46" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1587,1003,1752,1029"/>
+<area shape="rect" id="node51" href="$d6/db1/TrackLTIntegral_8h.html" title="Track Length and TOF integral. " alt="" coords="3848,303,4051,344"/>
+<area shape="rect" id="node54" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="3391,399,3641,426"/>
+<area shape="rect" id="node52" href="$d5/d08/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2PID_8h.html" title="ReconstructionDataFormats\l/PID.h" alt="" coords="4488,392,4691,433"/>
+<area shape="rect" id="node53" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="4539,489,4815,515"/>
+<area shape="rect" id="node59" href="$d0/ddd/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2ClusterNative_8h.html" title="DataFormatsTPC/ClusterNative.h" alt="" coords="1331,578,1567,605"/>
+<area shape="rect" id="node61" href="$d8/dc8/ClusterGroupAttribute_8h.html" title="Meta data for a group describing it by sector number and global padrow. " alt="" coords="1185,660,1405,701"/>
+<area shape="rect" id="node62" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="830,571,999,612"/>
+<area shape="rect" id="node66" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="2721,660,2890,701"/>
+<area shape="rect" id="node71" href="$d5/da8/dEdxInfo_8h.html" title="DataFormatsTPC/dEdxInfo.h" alt="" coords="2858,399,3062,426"/>
+<area shape="rect" id="node78" href="$d4/db1/TPCFastTransform_8h.html" title="Definition of TPCFastTransform class. " alt="" coords="1847,310,1998,337"/>
+<area shape="rect" id="node79" href="$db/dff/FlatObject_8h.html" title="Definition of FlatObject class. " alt="" coords="1785,667,1885,694"/>
+<area shape="rect" id="node80" href="$d5/dde/TPCFastTransformGeo_8h.html" title="Definition of TPCFastTransformGeo class. " alt="" coords="195,489,371,515"/>
+<area shape="rect" id="node81" href="$d0/d28/TPCDistortionIRS_8h.html" title="Definition of TPCDistortionIRS class. " alt="" coords="1697,399,1841,426"/>
+<area shape="rect" id="node82" href="$d8/d4b/IrregularSpline2D3D_8h.html" title="Definition of IrregularSpline2D3D class. " alt="" coords="1575,489,1740,515"/>
+<area shape="rect" id="node83" href="$d4/de4/IrregularSpline1D_8h.html" title="Definition of IrregularSpline1D class. " alt="" coords="1592,578,1739,605"/>
+</map>

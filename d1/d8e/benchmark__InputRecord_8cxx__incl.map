@@ -1,0 +1,30 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/test/benchmark_InputRecord.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Framework/Core/test/benchmark_InputRecord.cxx">
+<area shape="rect" id="node3" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1825,534,1994,561"/>
+<area shape="rect" id="node14" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="2467,445,2595,471"/>
+<area shape="rect" id="node28" href="$d4/de5/CompletionPolicyHelpers_8h.html" title="Framework/CompletionPolicy\lHelpers.h" alt="" coords="229,348,441,389"/>
+<area shape="rect" id="node34" href="$df/d59/DataRelayer_8h.html" title="Framework/DataRelayer.h" alt="" coords="1600,124,1789,151"/>
+<area shape="rect" id="node41" href="$d6/dc9/DataProcessingHeader_8h.html" title="Framework/DataProcessing\lHeader.h" alt="" coords="666,437,865,479"/>
+<area shape="rect" id="node54" href="$d6/d5c/InputRecord_8h.html" title="Framework/InputRecord.h" alt="" coords="3693,124,3880,151"/>
+<area shape="rect" id="node12" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2237,623,2432,650"/>
+<area shape="rect" id="node15" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="4330,534,4606,561"/>
+<area shape="rect" id="node29" href="$d6/d72/ChannelSpec_8h.html" title="Framework/ChannelSpec.h" alt="" coords="93,445,288,471"/>
+<area shape="rect" id="node30" href="$df/dd6/CompletionPolicy_8h.html" title="Framework/CompletionPolicy.h" alt="" coords="2069,445,2291,471"/>
+<area shape="rect" id="node31" href="$d9/d32/PartRef_8h.html" title="Framework/PartRef.h" alt="" coords="2069,534,2224,561"/>
+<area shape="rect" id="node35" href="$d5/d19/InputRoute_8h.html" title="Framework/InputRoute.h" alt="" coords="1605,199,1785,225"/>
+<area shape="rect" id="node40" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="1093,348,1289,389"/>
+<area shape="rect" id="node50" href="$d7/d12/ForwardRoute_8h.html" title="Framework/ForwardRoute.h" alt="" coords="731,199,930,225"/>
+<area shape="rect" id="node51" href="$d4/def/TimesliceIndex_8h.html" title="Framework/TimesliceIndex.h" alt="" coords="539,273,749,300"/>
+<area shape="rect" id="node36" href="$d2/dd9/ExpirationHandler_8h.html" title="Framework/ExpirationHandler.h" alt="" coords="1717,445,1944,471"/>
+<area shape="rect" id="node38" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="1393,273,1567,300"/>
+<area shape="rect" id="node37" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="1585,534,1749,561"/>
+<area shape="rect" id="node39" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="1299,445,1549,471"/>
+<area shape="rect" id="node55" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="2873,355,3034,382"/>
+<area shape="rect" id="node56" href="$d5/db8/DataRefUtils_8h.html" title="Framework/DataRefUtils.h" alt="" coords="3364,273,3556,300"/>
+<area shape="rect" id="node66" href="$d0/d95/TypeTraits_8h.html" title="Framework/TypeTraits.h" alt="" coords="3871,445,4046,471"/>
+<area shape="rect" id="node67" href="$db/d31/Traits_8h.html" title="Framework/Traits.h" alt="" coords="4733,534,4878,561"/>
+<area shape="rect" id="node71" href="$d7/d91/BoostSerializer_8h.html" title="Templatised boost serializer/deserializer for containers and base types. " alt="" coords="5247,445,5471,471"/>
+<area shape="rect" id="node85" href="$da/d0f/InputSpan_8h.html" title="Framework/InputSpan.h" alt="" coords="4198,199,4373,225"/>
+<area shape="rect" id="node86" href="$dc/d03/TableConsumer_8h.html" title="Framework/TableConsumer.h" alt="" coords="3777,273,3986,300"/>
+<area shape="rect" id="node57" href="$d8/d3c/TMessageSerializer_8h.html" title="Framework/TMessageSerializer.h" alt="" coords="3135,445,3369,471"/>
+<area shape="rect" id="node65" href="$d1/d53/SerializationMethods_8h.html" title="Type wrappers for enfording a specific serialization method. " alt="" coords="3826,355,4073,382"/>
+</map>

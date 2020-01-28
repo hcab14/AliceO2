@@ -1,0 +1,30 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/reconstruction/src/ClustererTask.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/reconstruction/src/ClustererTask.cxx">
+<area shape="rect" id="node2" href="$d4/d74/TOF_2reconstruction_2include_2TOFReconstruction_2ClustererTask_8h.html" title="TOFReconstruction/Clusterer\lTask.h" alt="" coords="2181,124,2388,165"/>
+<area shape="rect" id="node25" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="2058,653,2189,679"/>
+<area shape="rect" id="node33" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1260,563,1440,590"/>
+<area shape="rect" id="node50" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="3087,467,3256,508"/>
+<area shape="rect" id="node56" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1755,288,1924,329"/>
+<area shape="rect" id="node4" href="$dc/d24/TOF_2reconstruction_2include_2TOFReconstruction_2Clusterer_8h.html" title="TOFReconstruction/Clusterer.h" alt="" coords="2176,213,2393,240"/>
+<area shape="rect" id="node7" href="$d1/d50/DataFormats_2Detectors_2TOF_2include_2DataFormatsTOF_2Cluster_8h.html" title="DataFormatsTOF/Cluster.h" alt="" coords="1949,295,2141,322"/>
+<area shape="rect" id="node46" href="$d4/d54/Geo_8h.html" title="TOFBase/Geo.h" alt="" coords="1012,474,1133,501"/>
+<area shape="rect" id="node48" href="$da/d07/Detectors_2TOF_2reconstruction_2include_2TOFReconstruction_2DataReader_8h.html" title="TOFReconstruction/DataReader.h" alt="" coords="1277,295,1511,322"/>
+<area shape="rect" id="node57" href="$d7/d65/CalibTOFapi_8h.html" title="Class to use TOF calibration (decalibration, calibration) " alt="" coords="2285,385,2495,411"/>
+<area shape="rect" id="node8" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="1734,377,1937,419"/>
+<area shape="rect" id="node14" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="1645,467,1873,508"/>
+<area shape="rect" id="node15" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="2256,563,2420,590"/>
+<area shape="rect" id="node18" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1609,563,1776,590"/>
+<area shape="rect" id="node21" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2004,556,2232,597"/>
+<area shape="rect" id="node27" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="2156,824,2299,851"/>
+<area shape="rect" id="node30" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="2273,742,2427,769"/>
+<area shape="rect" id="node32" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="1939,742,2198,769"/>
+<area shape="rect" id="node28" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="2026,899,2223,925"/>
+<area shape="rect" id="node29" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="2247,899,2413,925"/>
+<area shape="rect" id="node40" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="171,653,351,679"/>
+<area shape="rect" id="node47" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="881,563,1134,590"/>
+<area shape="rect" id="node49" href="$d1/d90/Detectors_2TOF_2base_2include_2TOFBase_2Digit_8h.html" title="TOFBase/Digit.h" alt="" coords="1159,385,1285,411"/>
+<area shape="rect" id="node58" href="$d5/df3/BasicCCDBManager_8h.html" title="CCDB/BasicCCDBManager.h" alt="" coords="2859,474,3062,501"/>
+<area shape="rect" id="node65" href="$d8/de0/CalibLHCphaseTOF_8h.html" title="Class to store the output of the matching to TOF for calibration. " alt="" coords="2273,467,2507,508"/>
+<area shape="rect" id="node66" href="$d3/d81/CalibTimeSlewingParamTOF_8h.html" title="Class to store the output of the matching to TOF for calibration. " alt="" coords="2048,467,2249,508"/>
+<area shape="rect" id="node59" href="$dd/d3e/CcdbApi_8h.html" title="CCDB/CcdbApi.h" alt="" coords="3129,563,3257,590"/>
+<area shape="rect" id="node64" href="$da/d86/CCDBTimeStampUtils_8h.html" title="CCDB/CCDBTimeStampUtils.h" alt="" coords="2684,563,2901,590"/>
+</map>

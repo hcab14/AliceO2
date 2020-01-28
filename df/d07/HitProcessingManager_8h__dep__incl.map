@@ -1,0 +1,19 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Steer/include/Steer/HitProcessingManager.h" name="/home/travis/build/AliceO2Group/AliceO2/Steer/include/Steer/HitProcessingManager.h">
+<area shape="rect" id="node2" href="$d3/d87/CollisionTimePrinter_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/CollisionTimePrinter.cxx" alt="" coords="5,124,212,195"/>
+<area shape="rect" id="node3" href="$d5/d9b/EMCALDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/EMCALDigitizerSpec.cxx" alt="" coords="236,124,443,195"/>
+<area shape="rect" id="node4" href="$d2/d97/FDDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/FDDDigitizerSpec.cxx" alt="" coords="467,124,657,195"/>
+<area shape="rect" id="node5" href="$d4/dfd/FT0DigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/FT0DigitizerSpec.cxx" alt="" coords="681,124,867,195"/>
+<area shape="rect" id="node6" href="$d0/d1c/FV0DigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/FV0DigitizerSpec.cxx" alt="" coords="891,124,1078,195"/>
+<area shape="rect" id="node7" href="$d8/d00/HMPIDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/HMPIDDigitizerSpec.cxx" alt="" coords="1102,124,1307,195"/>
+<area shape="rect" id="node8" href="$d3/d43/ITSMFTDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/ITSMFTDigitizerSpec.cxx" alt="" coords="1331,124,1539,195"/>
+<area shape="rect" id="node9" href="$db/d2f/MCHDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MCHDigitizerSpec.cxx" alt="" coords="1563,124,1755,195"/>
+<area shape="rect" id="node10" href="$d4/dd3/MIDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/MIDDigitizerSpec.cxx" alt="" coords="1779,124,1966,195"/>
+<area shape="rect" id="node11" href="$db/d77/PHOSDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/PHOSDigitizerSpec.cxx" alt="" coords="1991,124,2189,195"/>
+<area shape="rect" id="node12" href="$d3/d13/SimReaderSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/SimReaderSpec.cxx" alt="" coords="2214,124,2393,195"/>
+<area shape="rect" id="node13" href="$d6/d61/TOFDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TOFDigitizerSpec.cxx" alt="" coords="2417,124,2603,195"/>
+<area shape="rect" id="node14" href="$d2/d0b/TPCDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TPCDigitizerSpec.cxx" alt="" coords="2627,124,2814,195"/>
+<area shape="rect" id="node15" href="$d6/df2/TRDDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/TRDDigitizerSpec.cxx" alt="" coords="2838,124,3027,195"/>
+<area shape="rect" id="node16" href="$d1/d1a/ZDCDigitizerSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/DigitizerWorkflow\l/src/ZDCDigitizerSpec.cxx" alt="" coords="3052,124,3243,195"/>
+<area shape="rect" id="node17" href="$d6/d0b/HitProcessingManager_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/src/HitProcessingManager.cxx" alt="" coords="3267,131,3526,187"/>
+<area shape="rect" id="node18" href="$d7/d6d/testHitProcessingManager_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Steer/test/testHitProcessing\lManager.cxx" alt="" coords="3551,124,3757,195"/>
+</map>

@@ -1,0 +1,8 @@
+digraph "o2::raw::RawFileReader"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::raw::RawFileReader\n||+ ~RawFileReader()\l+ init()\l+ clear()\l+ addFile()\l+ getNLinks()\l+ getNFiles()\l+ getLinksOrder()\l+ getLink()\l+ getLinkWithSubSpec()\l+ getLinkSubSpec()\l+ printStat()\l+ setVerbosity()\l+ setCheckErrors()\l+ getVerbosity()\l+ getCheckErrors()\l+ setNominalSPageSize()\l+ getNominalSPageSize()\l+ setNominalHBFperTF()\l+ getNominalHBFperTF()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+}

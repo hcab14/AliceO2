@@ -1,0 +1,13 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/EventVisualisation/View/include/EventVisualisationView/Initializer.h" name="/home/travis/build/AliceO2Group/AliceO2/EventVisualisation/View/include/EventVisualisationView/Initializer.h">
+<area shape="rect" id="node2" href="$d8/d25/EventManager_8h.html" title="EventVisualisationView\l/EventManager.h" alt="" coords="654,139,829,180"/>
+<area shape="rect" id="node3" href="$d6/d7c/VisualisationConstants_8h.html" title="EventVisualisationBase\l/VisualisationConstants.h" alt="" coords="68,317,255,359"/>
+<area shape="rect" id="node5" href="$dd/dbf/DataInterpreter_8h.html" title="EventVisualisationBase\l/DataInterpreter.h" alt="" coords="350,228,525,269"/>
+<area shape="rect" id="node16" href="$d7/dec/EventVisualisation_2Base_2include_2EventVisualisationBase_2DataReader_8h.html" title="EventVisualisationBase\l/DataReader.h" alt="" coords="918,228,1093,269"/>
+<area shape="rect" id="node17" href="$d5/df3/BasicCCDBManager_8h.html" title="CCDB/BasicCCDBManager.h" alt="" coords="640,235,843,262"/>
+<area shape="rect" id="node18" href="$dd/d3e/CcdbApi_8h.html" title="CCDB/CcdbApi.h" alt="" coords="1031,325,1159,351"/>
+<area shape="rect" id="node6" href="$d0/d35/VisualisationEvent_8h.html" title="EventVisualisationDataConverter\l/VisualisationEvent.h" alt="" coords="279,317,518,359"/>
+<area shape="rect" id="node7" href="$d0/d40/VisualisationTrack_8h.html" title="EventVisualisationDataConverter\l/VisualisationTrack.h" alt="" coords="186,496,425,537"/>
+<area shape="rect" id="node13" href="$d5/d20/VisualisationCluster_8h.html" title="EventVisualisationDataConverter\l/VisualisationCluster.h" alt="" coords="289,407,527,448"/>
+<area shape="rect" id="node8" href="$de/ddf/ConversionConstants_8h.html" title="ConversionConstants.h" alt="" coords="403,585,575,612"/>
+<area shape="rect" id="node25" href="$da/d86/CCDBTimeStampUtils_8h.html" title="CCDB/CCDBTimeStampUtils.h" alt="" coords="738,325,955,351"/>
+</map>

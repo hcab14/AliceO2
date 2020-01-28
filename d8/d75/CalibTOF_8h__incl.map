@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/GlobalTracking/include/GlobalTracking/CalibTOF.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/GlobalTracking/include/GlobalTracking/CalibTOF.h">
+<area shape="rect" id="node7" href="$d4/d78/CalibInfoTOFshort_8h.html" title="Class to store the output of the matching to TOF for calibration (no channel info, available in CalibInfoTOF.h) " alt="" coords="1356,124,1549,165"/>
+<area shape="rect" id="node8" href="$d8/de0/CalibLHCphaseTOF_8h.html" title="Class to store the output of the matching to TOF for calibration. " alt="" coords="546,213,780,255"/>
+<area shape="rect" id="node9" href="$d3/d81/CalibTimeSlewingParamTOF_8h.html" title="Class to store the output of the matching to TOF for calibration. " alt="" coords="321,213,522,255"/>
+<area shape="rect" id="node10" href="$d4/d54/Geo_8h.html" title="TOFBase/Geo.h" alt="" coords="109,131,230,158"/>
+<area shape="rect" id="node18" href="$d7/d65/CalibTOFapi_8h.html" title="Class to use TOF calibration (decalibration, calibration) " alt="" coords="855,131,1066,158"/>
+<area shape="rect" id="node11" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="43,221,296,247"/>
+<area shape="rect" id="node20" href="$d5/df3/BasicCCDBManager_8h.html" title="CCDB/BasicCCDBManager.h" alt="" coords="915,221,1118,247"/>
+<area shape="rect" id="node21" href="$dd/d3e/CcdbApi_8h.html" title="CCDB/CcdbApi.h" alt="" coords="1054,303,1182,329"/>
+<area shape="rect" id="node27" href="$da/d86/CCDBTimeStampUtils_8h.html" title="CCDB/CCDBTimeStampUtils.h" alt="" coords="761,303,978,329"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/test/testTPCGEMAmplification.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/simulation/test/testTPCGEMAmplification.cxx">
+<area shape="rect" id="node3" href="$d9/d79/GEMAmplification_8h.html" title="Definition of the GEM amplification. " alt="" coords="1027,124,1275,151"/>
+<area shape="rect" id="node10" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="389,199,575,225"/>
+<area shape="rect" id="node22" href="$de/d2b/ParameterGEM_8h.html" title="Definition of the parameter class for the GEM stack. " alt="" coords="600,199,791,225"/>
+<area shape="rect" id="node58" href="$dc/df2/CDBInterface_8h.html" title="Simple interface to the CDB manager. " alt="" coords="2026,124,2207,151"/>
+<area shape="rect" id="node4" href="$db/dac/RandomRing_8h.html" title="MathUtils/RandomRing.h" alt="" coords="860,199,1043,225"/>
+<area shape="rect" id="node24" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1457,527,1579,553"/>
+<area shape="rect" id="node41" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1821,601,1962,628"/>
+<area shape="rect" id="node42" href="$d6/d2b/TPC_2base_2include_2TPCBase_2CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="1782,199,1921,225"/>
+<area shape="rect" id="node11" href="$db/d2c/ConfigurableParam_8h.html" title="SimConfig/ConfigurableParam.h" alt="" coords="74,363,301,389"/>
+<area shape="rect" id="node18" href="$da/d6b/ConfigurableParamHelper_8h.html" title="SimConfig/ConfigurableParam\lHelper.h" alt="" coords="341,273,556,315"/>
+<area shape="rect" id="node25" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1507,751,1684,777"/>
+<area shape="rect" id="node38" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="2056,676,2191,703"/>
+<area shape="rect" id="node40" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="1534,601,1657,628"/>
+<area shape="rect" id="node26" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="2020,907,2200,934"/>
+<area shape="rect" id="node29" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1516,825,1696,852"/>
+<area shape="rect" id="node39" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="2017,751,2229,777"/>
+<area shape="rect" id="node49" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1552,363,1695,389"/>
+<area shape="rect" id="node56" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="1639,281,1789,307"/>
+<area shape="rect" id="node50" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="2052,527,2216,553"/>
+<area shape="rect" id="node51" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1604,527,1773,553"/>
+<area shape="rect" id="node52" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="2017,445,2166,471"/>
+<area shape="rect" id="node53" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="2225,676,2369,703"/>
+<area shape="rect" id="node54" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="1454,445,1641,471"/>
+<area shape="rect" id="node55" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1767,445,1941,471"/>
+<area shape="rect" id="node59" href="$d4/dd1/IdPath_8h.html" title="CCDB/IdPath.h" alt="" coords="2946,363,3061,389"/>
+<area shape="rect" id="node62" href="$d5/df3/BasicCCDBManager_8h.html" title="CCDB/BasicCCDBManager.h" alt="" coords="2421,281,2623,307"/>
+<area shape="rect" id="node63" href="$dd/d3e/CcdbApi_8h.html" title="CCDB/CcdbApi.h" alt="" coords="2765,363,2893,389"/>
+<area shape="rect" id="node66" href="$da/d86/CCDBTimeStampUtils_8h.html" title="CCDB/CCDBTimeStampUtils.h" alt="" coords="2523,363,2740,389"/>
+</map>

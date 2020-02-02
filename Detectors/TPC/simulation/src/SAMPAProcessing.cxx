@@ -44,15 +44,16 @@ void SAMPAProcessing::getShapedSignal(float ADCsignal, float driftTime, std::vec
 {
   const float timeBinTime = getTimeBinTime(driftTime);
   const float offset = driftTime - timeBinTime;
-  for (float bin = 0; bin < mEleParam->NShapedPoints; bin += Vc::float_v::Size) {
-    Vc::float_v binvector;
-    for (int i = 0; i < Vc::float_v::Size; ++i) {
-      binvector[i] = bin + i;
-    }
-    Vc::float_v time = timeBinTime + binvector * mEleParam->ZbinWidth;
-    Vc::float_v signal = getGamma4(time, Vc::float_v(timeBinTime + offset), Vc::float_v(ADCsignal));
-    for (int i = 0; i < Vc::float_v::Size; ++i) {
-      signalArray[bin + i] = signal[i];
-    }
+  Vc::float_v binVector = Vc::float_v::IndexesFromZero() * mEleParam->ZbinWidth;
+  const Vc::float_v binInc = Vc::float_v::Size* mEleParam->ZbinWidth;
+  Vc::float_v signal;
+  float *p = signalArray.data();
+  for (int bin = 0; bin < mEleParam->NShapedPoints; bin += Vc::float_v::Size) {
+    const Vc::float_v time = timeBinTime + binVector;
+    signal = getGamma4(time, Vc::float_v(timeBinTime + offset), Vc::float_v(ADCsignal));
+    signal.store(p);
+    p += Vc::float_v::Size;
+    Vc::prefetchForOneRead(p);
+    binVector += binInc;
   }
 }

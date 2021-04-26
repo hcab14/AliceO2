@@ -45,8 +45,8 @@ struct FV0DigParam : public o2::conf::ConfigurableParamHelper<FV0DigParam> {
   float cfdCheckWindow = 2.5;                                                 // time window for the cfd in ns to trigger the charge integration
   int avgNumberPhElectronPerMip = 201;                                        // avg number of photo-electrons per MIP
   float globalTimeOfFlight = 315.0 / o2::constants::physics::LightSpeedCm2NS; //TODO check the correct value for distance of FV0 to IP
-  float mCFDdeadTime = 15.6;            // ns
-  float mCFD_trsh = 3.;                 // [mV]
+  float mCFDdeadTime = 15.6;                                                  // ns
+  float mCFD_trsh = 3.;                                                       // [mV]
   ///Parameters for trigger simulation
   int adcChargeHighMultTh = 3.0 * 498; //threshold value of ADC charge for high multiplicity trigger
 
